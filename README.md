@@ -1,0 +1,1 @@
+# Exploratory-Data-Analysis-EDA-on-Algerian-Forest-Fires-Dataset
